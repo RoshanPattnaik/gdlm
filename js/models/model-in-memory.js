@@ -118,7 +118,7 @@ directory.MemoryStore = function(successCallback, errorCallback) {
       managerName: "Rupak Bhattacharya",
       "title": "GDLM Onshore Team",
       "department": "Defect Management",
-      "soeId": "rm92881",
+      "soeId": "aj63840",
       "cellPhone": "+65-97352226",
       "email": "*GCT Global GDLM L3 Team Leads",
       "role": "Defect Management",
